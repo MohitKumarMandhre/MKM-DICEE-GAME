@@ -4,7 +4,7 @@ A new Flutter project.
 
 # VIDEO OF APP
 
-[![MKM-DICEE-GAME](https://github.com/MohitKumarMandhre/MKM-DICEE-GAME/blob/master/DICEE.mp4)](https://github.com/MohitKumarMandhre/MKM-DICEE-GAME/blob/master/DICEE.mp4)
+![](https://github.com/MohitKumarMandhre/MKM-DICEE-GAME/blob/master/GIFs-rolling-dicee.gif)
 
 
 ## Getting Started
