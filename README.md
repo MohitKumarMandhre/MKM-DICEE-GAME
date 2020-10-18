@@ -1,6 +1,11 @@
-# rolling_Dice
+# MKM-DICEE-GAME
 
 A new Flutter project.
+
+# VIDEO OF APP
+
+![](https://github.com/MohitKumarMandhre/MKM-DICEE-GAME/blob/master/GIFs-rolling-dicee.gif)
+
 
 ## Getting Started
 
